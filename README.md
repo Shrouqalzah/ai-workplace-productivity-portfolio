@@ -32,6 +32,20 @@ The selected role is a **Business Analyst** supporting **GovConnect**, a fiction
 | [Responsible AI](06-responsible-ai/responsible-use-checklist.md) | Analysis across all six principles, Green/Amber/Red classification, and a portfolio-wide safety confirmation |
 | [Integration Plan](07-integration-plan/personal-integration-plan.md) | Three recurring Business Analyst tasks planned for ongoing AI use |
 
+## How to Use This Repository
+
+This repository is a documentation-based portfolio and does not require software installation or code execution.
+
+To review the project:
+1. Start with this README.md for the project overview and selected workplace scenario.
+2. Open `01-prompt-engineering` to review the reusable C.A.R.E./R.C.T.O. prompts and the Before/After example.
+3. Open `02-writing-workflow` to review the Draft → Verify → Refine → Human Sign-off process.
+4. Open `03-information-workflow` to see raw meeting notes transformed into a structured, decision-ready output.
+5. Open `04-planning-workflow` to review the Goal → Mechanisms → Phases → Tasks planning method.
+6. Open `05-verification` to review the verification checklist and its application.
+7. Open `06-responsible-ai` to review the six Responsible AI principles, the Green/Amber/Red classification, and the Portfolio Safety Confirmation.
+8. Open `07-integration-plan` to review the personal plan for future AI use.
+
 ## Key Learnings
 1. A structured prompt (C.A.R.E./R.C.T.O.) produces far more usable output than a vague request — especially for requirements and UAT work, where ambiguity is costly.
 2. AI-generated summaries and briefs can sound confident while still inventing owners, deadlines, or decisions — verifying against the raw source is not optional.
@@ -39,5 +53,15 @@ The selected role is a **Business Analyst** supporting **GovConnect**, a fiction
 4. Marking gaps as `[Not Specified]` instead of guessing keeps a document honest and actually more useful for a sponsor making a real decision.
 5. Human sign-off has to be a real step, not a formality — several drafts in this portfolio were held back specifically because they hadn't been reviewed yet.
 
+## Version Control Practice
+
+This repository was pushed to GitHub as a single, complete commit ("Initial portfolio submission") once all seven sections were reviewed and approved. The numbered folder structure (01–07) keeps the portfolio organized for any future edits or additions.
+
 ## Responsible Use Statement
 This portfolio does not contain real confidential, private, or sensitive organizational information. All examples are fictional (the GovConnect scenario and all associated names, dates, and details). AI-generated content was reviewed by the trainee, who takes responsibility for the final work.
+
+## Training Program
+
+This project was completed as part of the **L0-FGP — Generative AI for Workplace Productivity** training program at **SDAIA Academy**, under the supervision of **Fahad Alqahtani**.
+
+Official SDAIA Academy GitHub: [SDAIA Academy](https://github.com/SDAIAAcademy)
