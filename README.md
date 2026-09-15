@@ -53,10 +53,6 @@ To review the project:
 4. Marking gaps as `[Not Specified]` instead of guessing keeps a document honest and actually more useful for a sponsor making a real decision.
 5. Human sign-off has to be a real step, not a formality — several drafts in this portfolio were held back specifically because they hadn't been reviewed yet.
 
-## Version Control Practice
-
-This repository was pushed to GitHub as a single, complete commit ("Initial portfolio submission") once all seven sections were reviewed and approved. The numbered folder structure (01–07) keeps the portfolio organized for any future edits or additions.
-
 ## Responsible Use Statement
 This portfolio does not contain real confidential, private, or sensitive organizational information. All examples are fictional (the GovConnect scenario and all associated names, dates, and details). AI-generated content was reviewed by the trainee, who takes responsibility for the final work.
 
